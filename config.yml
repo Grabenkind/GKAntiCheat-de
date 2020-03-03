@@ -1,0 +1,31 @@
+#   Übersetzt von Grabenkind
+#   Bei Rechtschreibfehlern bitte kontaktieren
+#   Kontakt: grabenkind@gmail.com
+#   
+#   Dieses Plugin wird von hackerG7 entwickelt!
+#   Alle Fehler die keine Rechtschreibfehler sind,
+#   müssen dem Entwickler selbst berichtet werden.
+
+systemName: '&8【&aGKAntiCheat&8】'
+successString: '&aGK-Anti-Cheat Test erfolgreich bestanden'
+failString: '&cDu hast den GK-Anti-Cheat Test nicht bestanden.'
+kickString: '&cDu wurdest %amount% mal mit einem gehackten Client identifiziert. Bitte wechsel zu einer legalen Version, anderseits droht dir ein Ban!'
+kickSeconds: 20
+whiteString: '&eWhitelist'
+failsString: '&cFails'
+hacksString: '&4Hacks'
+addWhiteString: '&aSpieler erfolgreich in die Whitelist aufgenommen: '
+removeWhiteString: '&aSpieler erfolgreich von der Whitelist entfernt: ' 
+cannotFindPlayerString: '&cSpieler kann nicht gefunden werden: ' 
+remainingTimeString: 'Verbleibend' 
+secondString: 'Sek.'
+buttonString: '《-Klick mich-》'
+reloadString: '&aReload abgeschlossen'
+helpList:
+- ---------------------------------------------------
+- /gkac help                        GKAntiCheat Befehle auflisten
+- /gkac reload                     Config neu laden
+- /gkac add <player>             Spieler zur Whitelist hinzufügen
+- /gkac remove <player>        Spieler von der Whitelist entfernen
+- /gkac check <player>          Aufzeichnung des Spielers prüfen
+- ---------------------------------------------------
