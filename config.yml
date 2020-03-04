@@ -19,13 +19,14 @@ removeWhiteString: '&aSpieler erfolgreich von der Whitelist entfernt: '
 cannotFindPlayerString: '&cSpieler kann nicht gefunden werden: ' 
 remainingTimeString: 'Verbleibend' 
 secondString: 'Sek.'
-buttonString: '《-Klick mich-》'
-reloadString: '&aReload abgeschlossen'
+reloadString: '&a&aReload abgeschlossen'
+topString: '&e------&aBitte klicke auf die Schaltfläche&e------'
+bottomString: '&e------&aBitte klicke auf die Schaltfläche&e------'
 helpList:
 - ---------------------------------------------------
-- /gkac help                        GKAntiCheat Befehle auflisten
-- /gkac reload                     Config neu laden
-- /gkac add <player>             Spieler zur Whitelist hinzufügen
-- /gkac remove <player>        Spieler von der Whitelist entfernen
-- /gkac check <player>          Aufzeichnung des Spielers prüfen
+- /gkac help                        list GKAntiCheat commands help
+- /gkac reload                     reload the config
+- /gkac add <player>             add player into white list
+- /gkac remove <player>        remove player from white list
+- /gkac check <player>          check player's record
 - ---------------------------------------------------
